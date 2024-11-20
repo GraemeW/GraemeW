@@ -16,8 +16,6 @@ I'm a display engineer/architect (full-time) and passionate game dev programmer/
 
 [![Instagram: gramemhw](https://img.shields.io/badge/-graememhw-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/graememhw/)](https://www.instagram.com/graememhw/)
 
-[![PhD Website (old): g3willia](https://img.shields.io/badge/PhD--Web-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.eng.uwaterloo.ca/~g3willia/)
-
 ## Projects
 
 ### **Frankie**
