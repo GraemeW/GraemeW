@@ -1,6 +1,6 @@
 # Hello there :wave:, I'm Graeme!
 
-I'm a display engineer/architect (full-time) and passionate game dev programmer/pixel artist (hobbyist).
+I'm a semi-retired display engineer/architect and a passionate game dev programmer/pixel artist.
 
 ## Languages && engines I like working with
 
@@ -20,7 +20,7 @@ I'm a display engineer/architect (full-time) and passionate game dev programmer/
 
 ### **Frankie**
 
-A good chunk of my free time goes toward developing a top-down JRPG named [Frankie](https://github.com/GraemeW/FrankieTheGame), which is unfortunately (for the time being) a private repository.  While I work on publicizing some of documentation from the repo, here's a taste:
+A good chunk of my free time goes toward developing a top-down JRPG named [Frankie](https://github.com/GraemeW/FrankieTheGame) -- very WIP, currently under a documentation overhaul.  Here's a taste:
 
 Frankie has danger:
 
@@ -69,6 +69,7 @@ Tracking repos for completion of various courses from [GameDev.tv](https://www.g
 Tracking repos for completion of various misc. courses:
 * [AdventOfCode](https://adventofcode.com/)
     * [AOC-2022-C++-Partial](https://github.com/GraemeW/AdventOfCode2022)
+    * [AOC-2024-C++-Partial](https://github.com/GraemeW/AdventOfCode2024)
 * [CatLikeCoding](https://catlikecoding.com/):
     * [ShaderTutorials](https://github.com/GraemeW/CatLikeTutorials)
 * [NedMakesGames](https://www.youtube.com/c/nedmakesgames):
